@@ -6,6 +6,6 @@
 <body>
 <p>Merhaba Dunya2</p>
 </body>
-<p>Merhaba Dunya2</p>
+<p>Merhaba Dunya22</p>
 </body>
 </html>
