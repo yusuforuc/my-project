@@ -1,9 +1,0 @@
-<html>
-<head>
-<title> Yusuf Oruç3
-</title>
-</head>
-<body>
-<p>Merhaba Dunya3</p>
-</body>
-</html>
